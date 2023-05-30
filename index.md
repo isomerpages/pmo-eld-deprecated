@@ -7,8 +7,8 @@ permalink: /
 notification: This is a mock up page for demonstration purposes only.
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Elections Department Singapore
+      subtitle: Your vote decides the future of Singapore
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
