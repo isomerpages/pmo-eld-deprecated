@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/eld_logo.svg
 colors:
   primary-color: "#4a90e2"
-  secondary-color: "#aafdf6"
+  secondary-color: "#9013fe"
   media-colors:
     - title: media-color-one
       color: "#49759a"
