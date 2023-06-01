@@ -2,5 +2,5 @@ logo: /images/eld_logo.svg
 links:
   - title: Latest News
     url: /latest-news/
-  - title: Example Folder
-    collection: example-folder
+  - title: Election results
+    url: /election-results/
