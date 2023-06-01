@@ -5,7 +5,7 @@ links:
   - title: Election results
     url: /election-results/
   - title: ELection Services
-    url: /permalink
+    url: /pmo-eld
     sublinks:
       - title: Check Voting Status
         url: https://app.eservice.eld.gov.sg/Voter
