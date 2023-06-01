@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Title
+description: An Isomer site of the ELD
+image: /images/eld_logo.svg
 permalink: /
 notification: This is a mock up page for demonstration purposes only.
 sections:
