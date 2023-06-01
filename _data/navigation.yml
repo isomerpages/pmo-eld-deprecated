@@ -4,3 +4,14 @@ links:
     url: /latest-news/
   - title: Election results
     url: /election-results/
+  - title: ELection Services
+    url: /permalink
+    sublinks:
+      - title: Check Voting Status
+        url: https://app.eservice.eld.gov.sg/Voter
+      - title: Restore Name
+        url: https://app.eservice.eld.gov.sg/Voter/
+      - title: Register as Overseas Voter
+        url: /permalink
+      - title: Candidate Services
+        url: www.eld.gov.sg/candidate_parliamentary_online.html
