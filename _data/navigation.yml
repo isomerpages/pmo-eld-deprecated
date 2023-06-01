@@ -1,8 +1,6 @@
 logo: /images/eld_logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Important Announcement
-    url: /important-announcement/
+  - title: Latest News
+    url: /latest-news/
   - title: Example Folder
     collection: example-folder
