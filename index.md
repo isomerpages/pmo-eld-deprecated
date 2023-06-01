@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Elections Department Singapore
       subtitle: Your vote decides the future of Singapore
-      background: /images/eld_canvas.png
+      background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
