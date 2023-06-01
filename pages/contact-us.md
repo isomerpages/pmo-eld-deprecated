@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6225 5353
       - email: ""
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
