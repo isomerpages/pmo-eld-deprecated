@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Elections Department Singapore
 description: An Isomer site of the ELD
 image: /images/eld_logo.svg
 permalink: /
