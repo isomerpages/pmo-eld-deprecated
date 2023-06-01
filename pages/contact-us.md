@@ -10,24 +10,14 @@ locations:
       - Singapore 307516
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 8.30am - 5.30pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: https://www.onemap.sg/minimap/mm.html?mWidth=500&mHeight=500&latLng=1.3243569,103.8434744&zoomLevl=18&iwt=<b>Elections%20Department<br></b>11%20Novena%20Rise<br>Singapore%20307516&popupWidth=200&popupHeight=500&includePopup=true&onloadPopup=true&design=original
     title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - phone: +65 6225 5353
+      - email: ""
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
   - content:
