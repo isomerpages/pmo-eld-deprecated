@@ -1,15 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/eld_logo.svg
 links:
+  - title: Latest News
+    url: /latest-news/
+  - title: Election results
+    url: /election-results/
+  - title: ELection Services
+    url: /
+    sublinks:
+      - title: Check Voting Status
+        url: https://app.eservice.eld.gov.sg/Voter
+      - title: Restore Name
+        url: https://app.eservice.eld.gov.sg/Voter/
+      - title: Register as Overseas Voter
+        url: https://app.eservice.eld.gov.sg/Voter
+      - title: Candidate Services
+        url: https://www.eld.gov.sg/candidate_parliamentary_online.html
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
